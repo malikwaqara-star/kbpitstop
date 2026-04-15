@@ -6,7 +6,7 @@ If you are an existing PC Matic user, this detailed guide will walk you through 
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://mypcmaticdesk.page.gd" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with PC Matic</a>
+       <a href="https://pcmaticdesk.github.io/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with PC Matic</a>
    </div>
 
 
